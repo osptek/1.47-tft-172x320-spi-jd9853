@@ -47,6 +47,7 @@ Repo id: `1.47-tft-172x320-spi-jd9853`
 <p align="center"><img alt="YDP147BT001-V12" src="./images/YDP147BT001-V12.png" width="320" /></p>
 
 **Notes:** With touch (CST08C).
+
 ---
 
 ## How to Switch Branches

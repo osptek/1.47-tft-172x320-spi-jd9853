@@ -47,6 +47,7 @@
 <p align="center"><img alt="YDP147BT001-V12" src="./images/YDP147BT001-V12.png" width="320" /></p>
 
 **说明：** 带触摸（CST08C）。
+
 ---
 
 ## 如何切换分支
