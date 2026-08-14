@@ -18,7 +18,6 @@
 - [About](#about)
 - [Versions](#versions)
 - [YDP147BT001-V12](#ydp147bt001-v12)
-- [How to Switch Branches](#how-to-switch-branches)
 - [Where to Buy](#where-to-buy)
 - [Support](#support)
 
@@ -28,7 +27,7 @@
 
 This repository holds materials for the **1.47″ 172×320 TFT (SPI · JD9853)** module family.
 
-**`main` is the navigation page** (repository default). Use the table below for a quick scan; click **Details** to jump to the section on this page. For a given version’s full content, switch to that **version branch** (see below).
+The **root README is the navigation page**. Use the table below for a quick scan; open **Full docs** to enter that **part-number folder** under `versions/` (product page, datasheets, and examples live there).
 
 Repo id: `1.47-tft-172x320-spi-jd9853`
 
@@ -36,26 +35,19 @@ Repo id: `1.47-tft-172x320-spi-jd9853`
 
 ## Versions
 
-| Version | Image | Notes |
-| ------- | ----- | ----- |
-| YDP147BT001-V12 | <img alt="YDP147BT001-V12" src="./images/YDP147BT001-V12.png" width="120" /> | [Details](#ydp147bt001-v12) |
+| Version | Image | Summary | Full docs |
+| ------- | ----- | ------- | --------- |
+| YDP147BT001-V12 | <img alt="YDP147BT001-V12" src="./versions/YDP147BT001-V12/images/product.png" width="120" /> | [Summary](#ydp147bt001-v12) | [Full docs](./versions/YDP147BT001-V12/) |
 
 ---
 
 ## YDP147BT001-V12
 
-<p align="center"><img alt="YDP147BT001-V12" src="./images/YDP147BT001-V12.png" width="320" /></p>
+<p align="center"><img alt="YDP147BT001-V12" src="./versions/YDP147BT001-V12/images/product.png" width="320" /></p>
 
 **Notes:** With touch (CST08C).
 
----
-
-## How to Switch Branches
-
-Full product materials are on each **version branch**; `main` is navigation only.
-
-- **Web:** open the branch dropdown at the top left of the repository page and select the branch that matches your part number.
-- **CLI:** after cloning, run `git checkout <version-branch>`; if the repo is already local, `git fetch` first, then switch.
+Full product page, datasheets, and examples: [versions/YDP147BT001-V12/](./versions/YDP147BT001-V12/)
 
 ---
 
